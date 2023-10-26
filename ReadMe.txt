@@ -1,5 +1,5 @@
 %%
-These data come from the paper arXiv:2303.11565, the authors are Li Luo, Zhiyi Mi, Junyi Huang and Zhichao Ruan. Zhichao Ruan is the corresponding author.
+These data come from the paper "Wavelength-division multiplexing optical Ising simulator enabling fully programmable spin couplings and external magnetic fields", the authors are Li Luo, Zhiyi Mi, Junyi Huang and Zhichao Ruan. Zhichao Ruan is the corresponding author.
 
 1. The three '.mat' files correspond to the experimental data for each of the three graphs. For example, 'ExperimentdataA.mat' corresponds to the experimental data for graph A.
 2. In each '.mat' file, the first row of the cell contains the interaction matrix, temperature, the number of iterations at each temperature, and the parameter of plot, respectively. 
